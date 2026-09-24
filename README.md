@@ -13,7 +13,7 @@
 ---
 
 ### 👨‍💻 Sobre mim
-Estudante de Análise e Desenvolvimento de Sistemas na **CESAR School** (Recife), apaixonado por desenvolvimento Backend. Busco uma oportunidade de estágio para aplicar minha lógica de programação e contribuir na criação de sistemas eficientes.
+Estudante de Análise e Desenvolvimento de Sistemas na **CESAR School** ,  desenvolvedor Backend. Busco uma oportunidade de estágio para aplicar minha lógica de programação e contribuir na criação de sistemas eficientes.
 
 ### 🚀 O que estou fazendo agora
 - Desenvolvendo o **SpringClean**, um otimizador de sistema para Windows focado em quem joga no PC
